@@ -1,4 +1,4 @@
-import random
+
 
 # Taking players data
 players = {}  # stores players name their locations
